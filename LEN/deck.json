@@ -1,0 +1,1343 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "4fa4d8a6-a3ae-11ed-8bea-5fc64ce04756",
+    "deck_config_uuid": "4fa53cf6-a3ae-11ed-8bea-5fc64ce04756",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4fa53cf6-a3ae-11ed-8bea-5fc64ce04756",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 10
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "22-7.jpg",
+        "paste-006f13b62138765f44cab36f8e2be3203b159c46.jpg",
+        "paste-0540644d21347cd8fd41d78b3996f90fe59f3bda.jpg",
+        "paste-09afbaca3658b8b59124588faed9afa989672793.jpg",
+        "paste-0b13de65e33d249344aa36e892c254324b11223e.jpg",
+        "paste-0ca00c3cefdc4a90b497d1b106675f0051bbd2da.jpg",
+        "paste-109e200c952d5d226a79edaa6eba9ce2b2fcea0d.jpg",
+        "paste-11e6a50e40c7c5289eddc64f6d54b7fb4b3ca9ca.jpg",
+        "paste-178de539efc2ded35b6489284a36688df6d111b4.jpg",
+        "paste-1f32e9ba94a262832f1fcb807bbe9b3f11e2cf64.jpg",
+        "paste-20e277f892d854cd5b4c571c5a724baae3ac598e.jpg",
+        "paste-2821e6ad92a456405bc6d6eb9e5fafa9234ae12d.jpg",
+        "paste-2ccb9d1374573eb9dbcd5d57b2a44041900fb857.jpg",
+        "paste-34dc6eb879d1a8457342bbac92d4a1ea2439f086.jpg",
+        "paste-3b49961291f63d628661ac77377cf74b54dbd6fa.jpg",
+        "paste-3b7b3a8d710bca229156d9e7b03779fd532b1c05.jpg",
+        "paste-3c58f191752f03a6e7b03937717a477199d7313e.jpg",
+        "paste-453502dad3ab6876ee830f788c94f351782b087e.jpg",
+        "paste-548f86e68e7908511662f1ee4235f104dbb66ab1.jpg",
+        "paste-564466a345dad5eb47256185fba3246ce282129e.jpg",
+        "paste-5a915159c54cbcafcf455170f90f00a9eac622e8.jpg",
+        "paste-7263781cf437584b795f4d54cf520b543a792fb7.jpg",
+        "paste-808f5d2184ceab8bff0e7d2098dbcaeaa8337c5d.jpg",
+        "paste-80c4382cdbd947e4def4ee632331de6ec123592e.jpg",
+        "paste-81b7f97a99ac67f004ee742280e068da1d97a3d2.jpg",
+        "paste-9efd09273ed0c6b7c73c78009e80da18282a5c2c.jpg",
+        "paste-bd86b4fcb7a6cee834d2f215c4ad4d77de72c99f.jpg",
+        "paste-c41b8c78692cfe6b4520b2a9ed66b94cf002a81c.jpg",
+        "paste-c759ebce34b5f846108e2f7e098fb67457b22f7f.jpg",
+        "paste-c8c716361b1010585d5014da0593e86e94144ed4.jpg",
+        "paste-cbe1d96f98f28359ec6940a99ff94c008a01e84d.jpg",
+        "paste-dd17e6522ddc6111d4565a45fc31d691abea34c0.jpg",
+        "paste-ded80224c1af26f53432df1b1b5c1b6575def541.jpg",
+        "paste-e3b5ee984e8da53b48b0742321e1bf3269a5781c.jpg",
+        "paste-e4cb7b3cc2d4c918afd0aa7f18a2725e37cf2f6a.jpg",
+        "paste-eaa33112f8d752cffc0f54f8dd8cc09a82c316fc.jpg",
+        "paste-ead035fe18444dd3e158a50a53b2c4112f5f1872.jpg",
+        "paste-f7a5e5823183f9f7f3b92762ebf482137613ec4c.jpg",
+        "paste-f7d3d36ae83fec814623bd4a9a3d83f31c84861f.jpg"
+    ],
+    "name": "LEN",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Nimbus Sans",
+                    "media": [],
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{standalone}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath,mathtools, bbm, xcolor, siunitx}\n\\sisetup{\n  per-mode=fraction,\n  inter-unit-product = \\ensuremath{{}\\cdot{}}\n}\n\\DeclareSIUnit\\atm{atm}\n\\DeclareSIUnit\\psi{psi}\n\\usepackage[T1]{fontenc}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n\\tiny",
+            "latexsvg": true,
+            "name": "Einfach",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\nul,ol{\nlist-style-position: inside;}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Frage",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Antwort",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Frage-Antwort",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Antwort}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Frage}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach-ed38d",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die formel für kinetische Energie, gegeben einer Masse&nbsp;\\(m\\)&nbsp;und einer Geschwindigkeit&nbsp;\\(v\\)?",
+                "\\(W = \\frac{1}{2}mv^2\\)"
+            ],
+            "guid": "J;~EV)[hN-",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Definition für die Einheit Newton?",
+                "<img src=\"paste-0ca00c3cefdc4a90b497d1b106675f0051bbd2da.jpg\">"
+            ],
+            "guid": "PlcNHvN}1^",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Elementarladung&nbsp;\\(e\\)?",
+                "Die Ladung eines Protons&nbsp;\\(Q_p\\)&nbsp;ist&nbsp;\\(e\\), die Ladung eines Elektrons&nbsp;\\(Q_e\\)&nbsp;ist&nbsp;\\(-e\\)<br>\\(e \\approx 1,6 \\cdot 10^{-19}\\textnormal{C}\\)"
+            ],
+            "guid": "G|o/g7&Y@%",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das Formelzeichen für elektrische Ladungen und was ist die dazugehörige Einheit?",
+                "\\([\\textnormal{Q}] = 1\\textnormal{C}\\)&nbsp;\"Coulomb\""
+            ],
+            "guid": "Qi,4Zdx;E[",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bezeichnet die Ladungsquantisierung?",
+                "Alle Ladungen sind ein ganzzahliges Vielfaches der Elementarladung<br>\\(Q = n\\cdot e,\\;\\;n \\in \\mathbb{Z}\\)"
+            ],
+            "guid": "N2.vc+Dn|=",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann sind Atome elektrisch neutral?",
+                "\\(\\Leftrightarrow\\; \\#p = \\#e\\; \\Leftrightarrow\\; |Q_p| = |Q_e|\\)"
+            ],
+            "guid": "qB+74Xr7$W",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sagt der Ladungserhaltungssatz aus?",
+                "Innerhalb eines elektrische&nbsp; abgeschlossenen Systems bleibt die Gesamtladung&nbsp;\\(Q_{Ges}\\)&nbsp;konstant,<br>d.h.:&nbsp;\\(Q_{Ges} = \\sum_i \\underbrace{q_i}_{=\\;\\pm e} = \\textnormal{const}\\)"
+            ],
+            "guid": "Ji;)ZVzc0q",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bezeichnet&nbsp;\\(\\overset{\\rightharpoonup}n\\)?",
+                "Den Flächennormalvektor, der senkrecht auf der Querschnittsfläche steht"
+            ],
+            "guid": "i5Anb!<Nzd",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Was sagt das Ohmsche Gesetz zu den Größen von Spannung, Strom und Widerstand aus?</div>",
+                "\\(\\underbrace{\\textnormal{R}}_{Widerstand} = \\frac{\\overbrace{\\textnormal{U}}^{Spannung}}{\\underbrace{\\textnormal{I}}_{Stromstärke}}\\)"
+            ],
+            "guid": "f>`&L,Z_%E",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bezeichnet die Stromstärke?",
+                "Wie viele Ladungsträger gehen pro Zeit durch den Querschnitt?"
+            ],
+            "guid": "A]q`klqVT",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das Formelzeichen für Stromstärke mit der zugehörigen Einheit?",
+                "\\([\\textnormal{I}] = 1\\textnormal{A} = \\frac{1\\textnormal{C Gesamtladung}}{1s}\\)"
+            ],
+            "guid": "p+vggT].7e",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist technischer Strom?",
+                "Die Stromrichtung in technischem Strom geht von 'Bewegung' der positiven Ladung aus"
+            ],
+            "guid": "ew;3RNGw&(",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das elektrische Potenzial?",
+                "Ein Maß für die elektrische Energie W einer Ladung Q in einem Punkt des Raumes:<br><br>\\(\\underbrace{\\varphi}_{\\textnormal{el. Potenzial}} = \\frac{W}{Q}\\)"
+            ],
+            "guid": "OrNPhVHadc",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das Formelzeichen für elektrisches Potenzial, und was ist die zugehörige Einheit?",
+                "\\([\\varphi] = 1\\textnormal{V}\\)"
+            ],
+            "guid": "qR!9Gr}$GJ",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist elektrische Spannung?",
+                "Die Differenz der elektrischen Potenziale zweier Punkte:<br><br>\\(U_{ij} = \\underbrace{\\varphi_i}_{\\displaylines{\\textnormal{betrachtetes}\\\\\\textnormal{Potenzial}}} - \\underbrace{\\varphi_j}_{\\displaylines{\\textnormal{Referenz/}\\\\\\textnormal{Bezugspunkt}}}\\)"
+            ],
+            "guid": "d=Q2|VeZ1Q",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Zweipol?",
+                "Eine elektrische Anordnung mit zwei Anschlüssen (Klammern)<br><img src=\"paste-5a915159c54cbcafcf455170f90f00a9eac622e8.jpg\">"
+            ],
+            "guid": "w5HiB[#Zbu",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Strom-Spannungs-Charakteristik?",
+                "Mit dem Klemmverhalten nimmt man eine Abhängigkeit von Strom und Spannung an<br>\\(U = U(I);\\;\\;I=I(U)\\)<br>bzw.&nbsp;\\(U = m\\cdot I+b;\\;\\;I=m\\cdot U+b\\)&nbsp;im Falle von linearen Zweipolen"
+            ],
+            "guid": "dMYLDA,oHW",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein (lineares) elektrisches Netzwerk?",
+                "Eine Zusammenschaltung von mehreren elektrischen n-Polen.<br>Im Falle von linearen elektrischen Netzen nur lineare Zweipole"
+            ],
+            "guid": "BV[*?F1@[*",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Knoten in einem elektrischen Netz?",
+                "Eine Verzweigung für Strom<br><img src=\"paste-3c58f191752f03a6e7b03937717a477199d7313e.jpg\">"
+            ],
+            "guid": "mTJ]`FW31:",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Zweig in einem linearen elektrischen Netz?",
+                "Ein Bereich, der zwei Knoten über einen oder mehrere Zweipole verbindet<br><img src=\"paste-453502dad3ab6876ee830f788c94f351782b087e.jpg\">"
+            ],
+            "guid": "h4E8Cp:An#",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Masche?",
+                "Ein geschlossener Weg in einem Netz, bestehend aus mindestens zwei Zweigen<br><img src=\"paste-2821e6ad92a456405bc6d6eb9e5fafa9234ae12d.jpg\">"
+            ],
+            "guid": "MZ[`dF]Sy&",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was für Konventionen gibt es für Zählpfeile?",
+                "<ul><li>Der Stromzählpfeil hinter einer Quelle zeigt von '+' nach '-'</li><li>Der Spannungszählpfeil über Spannungsquellen zeigt von '+' nach '-'</li><li>Der Spannungszählpfeil über einen Verbraucher zeigt in die gleiche Richtung wie der zugehörige Stromzählpfeil</li><li>Die Spannungszählpfeile in Zweigen ohne Quellen zeigen in beliebige Richtungen, Spannungs- und Stromzählpfeile zeigen aber in die gleiche Richtung</li></ul>"
+            ],
+            "guid": "AQ$@lXJ=3?",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man aus Strom und Spannung die Leistung eines elektrischen Netzes bestimmen?",
+                "\\(P = U\\cdot I\\)"
+            ],
+            "guid": "ISDG*]/f{*",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das Formelzeichen und die Einheit für Leistung?",
+                "\\([P] = 1\\frac{J}{s}=1\\textnormal{ Watt}\\)"
+            ],
+            "guid": "q`3Fol*4<(",
+            "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was für Typen von elektrischen Quellen gibt es?",
+                "<ul><li>Spannungsquellen</li><li>Stromquellen</li></ul>"
+            ],
+            "guid": "H`yY$?Q=/L",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie wird eine ideale Spannungsquelle in einer Schaltungsskizze gezeichnet?",
+                "<img src=\"paste-c41b8c78692cfe6b4520b2a9ed66b94cf002a81c.jpg\">"
+            ],
+            "guid": "OqO07h<Rv$",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie wird eine ideale Stromquelle in einer Schaltungsskizze gezeichnet?",
+                "<img src=\"paste-1f32e9ba94a262832f1fcb807bbe9b3f11e2cf64.jpg\">"
+            ],
+            "guid": "x>)xI_f5tV",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist eine lineare Spannungsquelle aufgebaut?",
+                "<img src=\"paste-eaa33112f8d752cffc0f54f8dd8cc09a82c316fc.jpg\">"
+            ],
+            "guid": "nDP.zpH;?A",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist eine lineare Stromquelle aufgebaut?",
+                "<img src=\"paste-bd86b4fcb7a6cee834d2f215c4ad4d77de72c99f.jpg\">"
+            ],
+            "guid": "Q$/p,3zyqD",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie zeichnet man eine gesteuerte Spannungsquelle?",
+                "<img src=\"paste-e4cb7b3cc2d4c918afd0aa7f18a2725e37cf2f6a.jpg\">"
+            ],
+            "guid": "pNe^|#8tLR",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie zeichnet man eine gesteuerte Stromquelle",
+                "<img src=\"paste-2ccb9d1374573eb9dbcd5d57b2a44041900fb857.jpg\">"
+            ],
+            "guid": "g:RW-L;?k:",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann ist die Leistung bei linearen Quellen maximal?",
+                "\\(\\Leftrightarrow R_{i} = R_{Last}\\)"
+            ],
+            "guid": "h40tOa]wlm",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was gilt für den Widerstand zweier Widerstände&nbsp;\\(R_1\\)&nbsp;&amp;&nbsp;\\(R_2\\)?",
+                "\\(R_{ges} = \\frac{R_1R_2}{R_1+R_2}\\)"
+            ],
+            "guid": "jrrn767I7!",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was gilt für den Widerstand von drei parallelen Widerständen&nbsp;\\(R_1, R_2 \\textnormal{ und } R_3\\)?",
+                "\\(\\frac{1}{R_{ges}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}\\)"
+            ],
+            "guid": "H!w$|[v)sl",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie berechnet man die Spannung&nbsp;\\(U_2\\)?<br><img src=\"paste-09afbaca3658b8b59124588faed9afa989672793.jpg\">",
+                "\\(\\frac{U_2}{U_0} = \\frac{R_2}{R_1 + R_2}\\)"
+            ],
+            "guid": "mJ4n5:{|&@",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nutzt man das Überlagerungsverfahren?",
+                "<ol><li>Alle Quellen bis auf jeweils eine entfernen (Stromquellen durch Unterbrechung, Spannungsquellen durch Kurzschluss ersetzen)</li><li>Gesuchte Werte normal berechnen für alle Quellen</li><li>Addieren aller berechneten Ströme/Spannungen&nbsp;\\(I_1 = I_{1A} + \\dots I_{1Z}\\)&nbsp;bzw.&nbsp;\\(U_1 = U_{1A} + \\dots + U_{1Z}\\)</li></ol>"
+            ],
+            "guid": "pM}m/0&DD#",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert Formal das Maschenstromverfahren?",
+                "<ol><li>Alle Stromquellen in Spannungsquellen umwandeln</li><li>Richtungen der Zählpfeile definieren</li><li>Maschenströme definieren</li><li>Aufstellen des LGS</li><li>Zweigströme aus Maschenströmen bestimmen</li></ol><div>\\(\\begin{pmatrix}\nR_{11} &amp; \\cdots &amp; R_{1m} \\\\\n\\vdots &amp; \\ddots &amp; \\vdots \\\\\nR_{m1} &amp; \\cdots &amp; R_{mm}\n\\end{pmatrix} \\cdot\n\\begin{pmatrix}\nI_1^M  \\\\\n\\vdots  \\\\\nI_m^M\n\\end{pmatrix} = \n\\begin{pmatrix}\n\\sum_{M_1} U_i  \\\\\n\\vdots  \\\\\n\\sum_{M_m} U_i\n\\end{pmatrix}\\)</div><div>Der echte Zweigstrom ist dann die Summe aller anliegenden Maschenströme.<br></div><div>Dabei gilt für&nbsp;\\(\\sum_{M_i} U_i\\)&nbsp;jeweils, dass das Vorzeichen des Elements negativ ist, wenn in die selbe Richtung wie der Maschenstrom gezählt wird, ansonsten positiv.</div><div></div><div></div><div></div><div></div><div></div>"
+            ],
+            "guid": "zbd[%s;J)v",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert formal das Knotenpunktpotenzialverfahren?",
+                "<ol><li>Spannungsquellen in Stromquellen umwandeln</li><li>Knotenpunkte definieren</li><li>Gleichungssystem aufstellen und lösen</li><li>Zweigströme aus Knotenpunktpotentialen bestimmen</li></ol><div>\\(\\begin{pmatrix}\n\\textcolor{green}{G_{11}} &amp; \\textcolor{blue}{\\cdots} &amp; \\textcolor{blue}{G_{1n}} \\\\\n\\textcolor{blue}{\\vdots} &amp; \\textcolor{green}{\\ddots} &amp; \\textcolor{blue}{\\vdots} \\\\\n\\textcolor{blue}{G_{n1}} &amp; \\textcolor{blue}{\\cdots} &amp; \\textcolor{green}{G_{nn}}\n\\end{pmatrix} \\cdot \n\\begin{pmatrix}\nV_1  \\\\\n\\vdots  \\\\\nV_n\n\\end{pmatrix} = \n\\textcolor{red}{\n\\begin{pmatrix}\nI_{q1}  \\\\\n\\vdots  \\\\\nI_{qn}\n\\end{pmatrix}}\\),<br></div><div>wobei gilt:</div><div>\\(G_{ij} = \\begin{cases}\n\\textnormal{MINUS der gemeinsame Leitwert der Knoten } i \\textnormal{ und } j &amp; \\textnormal{falls } i\\neq j\\\\\n\\textnormal{Summe aller an Knoten } i \\textnormal{ anliegenden Leitwerte} &amp; \\textnormal{falls } i = j\n\\end{cases}\\)</div><div>und<br></div><div>\\(I_{qi}\\)&nbsp;als Summe der Quellströme am Knoten&nbsp;\\(i\\)</div><div></div><div></div><div></div>"
+            ],
+            "guid": "bsSZelT,/+",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Anschlüsse hat ein Operationsverstärker?",
+                "<img src=\"paste-109e200c952d5d226a79edaa6eba9ce2b2fcea0d.jpg\"><br><div>\n<div>\n<div>\n<div>P-Eingang = nichtinvertierender Eingang&nbsp;</div><div>N-Eingang = invertierender Eingang\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>V+ = positive Spannungsversorgung&nbsp;</div><div>V- = negative Spannungsversorgung&nbsp;</div>\n</div>\n</div></div>"
+            ],
+            "guid": "e_I:QWj]!X",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie verstärkt ein Operationsverstärker ohne weitere Verkabelung die Differenzspannung&nbsp;\\(U_d\\)?",
+                "Differenzverstärkung&nbsp;\\(A = \\frac{U_a}{U_d}\\)&nbsp;bzw.&nbsp;\\(U_a = A \\cdot U_d\\)"
+            ],
+            "guid": "mrQr{@ej-w",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Annahmen machen wir für den idealen Operationsverstärker?",
+                "<ul><li>\\(U_d = 0\\)<br></li><li>\\(R_{\\textnormal{ein}} \\rightarrow \\infty; \\Rightarrow I_p \\rightarrow 0,\\;I_n \\rightarrow 0\\)</li><li>\\(U_a\\)&nbsp;ist maximal so groß wie&nbsp;\\(V^+\\)&nbsp;oder&nbsp;\\(V^-\\)<br></li></ul>"
+            ],
+            "guid": "eTXb$6}-Jk",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Spannungsfolger und was gilt dabei?",
+                "<img src=\"paste-3b49961291f63d628661ac77377cf74b54dbd6fa.jpg\"><br><div style=\"text-align: center;\"> </div>\\(U_a = U_e\\)<br>"
+            ],
+            "guid": "Hdc:K=Y#ih",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein invertierender Verstärker?",
+                "<img src=\"paste-0b13de65e33d249344aa36e892c254324b11223e.jpg\"><br>\\(\\frac{U_a}{U_e} = - \\frac{Z_2}{Z_1}\\)"
+            ],
+            "guid": "c1*e[Ctft/",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?&nbsp;<br><img src=\"paste-0b13de65e33d249344aa36e892c254324b11223e.jpg\">",
+                "Ein invertierender Spannungsverstärker.<br>Es gilt&nbsp;\\(\\frac{U_a}{U_e} = - \\frac{Z_2}{Z_1}\\)."
+            ],
+            "guid": "q}R_)kO84r",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"paste-cbe1d96f98f28359ec6940a99ff94c008a01e84d.jpg\">",
+                "Ein Spannungsfolger.<br>Es gilt&nbsp;\\(U_a = U_e\\).<br>"
+            ],
+            "guid": "C^Y4I$!/5^",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?&nbsp;<br><img src=\"paste-178de539efc2ded35b6489284a36688df6d111b4.jpg\">",
+                "Nicht-invertierender Verstärker<br>Es gilt&nbsp;\\(\\frac{U_a}{U_e} = \\frac{R_1 + R_2}{R_2}\\)"
+            ],
+            "guid": "K+ViZN3es3",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein nicht-invertierender Verstärker?",
+                "<img src=\"paste-548f86e68e7908511662f1ee4235f104dbb66ab1.jpg\"><br>Es gilt&nbsp;\\(\\frac{U_a}{U_e} = \\frac{R_1 + R_2}{R_2}\\)"
+            ],
+            "guid": "s;|=po-@+n",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"paste-9efd09273ed0c6b7c73c78009e80da18282a5c2c.jpg\">",
+                "Ein invertierender Addierer<br>Es gilt&nbsp;\\(U_a = -R_2 \\cdot (\\frac{U_{e1}}{R_{11}} + \\frac{U_{e2}}{R_{12}} + \\frac{U_{e3}}{R_{13}})\\)"
+            ],
+            "guid": "eBGpr%7_%T",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein invertierender Addierer?",
+                "<img src=\"paste-c8c716361b1010585d5014da0593e86e94144ed4.jpg\"><br>Es gilt&nbsp;\\(U_a = -R_2 \\cdot (\\frac{U_{e1}}{R_{11}} + \\frac{U_{e2}}{R_{12}} + \\frac{U_{e3}}{R_{13}})\\)"
+            ],
+            "guid": "J*.Q#v7E_a",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man eine Dreiecksschaltung in eine Sternschaltung umwandeln?",
+                "<img src=\"paste-006f13b62138765f44cab36f8e2be3203b159c46.jpg\"><br><img src=\"paste-ded80224c1af26f53432df1b1b5c1b6575def541.jpg\">"
+            ],
+            "guid": "v-xOkD7s&g",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man eine Sternschaltung in eine Dreiecksschaltung umwandeln?",
+                "<img src=\"paste-20e277f892d854cd5b4c571c5a724baae3ac598e.jpg\"><br><img src=\"paste-f7a5e5823183f9f7f3b92762ebf482137613ec4c.jpg\">"
+            ],
+            "guid": "L-@->54I+G",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"paste-7263781cf437584b795f4d54cf520b543a792fb7.jpg\">",
+                "Ein Spannungsfolger.<br>Es gilt&nbsp;\\(U_a = U_e - \\underbrace{U_d}_{=0}\\)"
+            ],
+            "guid": "Et5XoY&UFN",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Spannungsfolger?",
+                "<img src=\"paste-7263781cf437584b795f4d54cf520b543a792fb7.jpg\"><br>Es gilt&nbsp;\\(U_a = U_e - \\underbrace{U_d}_{=0}\\)"
+            ],
+            "guid": "Kn^|66e06%",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"paste-80c4382cdbd947e4def4ee632331de6ec123592e.jpg\">",
+                "Ein Differenzverstärker<br>Es gilt:&nbsp;\\(U_a = \\frac{R_3}{R_1}\\cdot (U_{e2} - U_{e1})\\)"
+            ],
+            "guid": "QSCaG3^`+z",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Differenzverstärker?",
+                "<img src=\"paste-80c4382cdbd947e4def4ee632331de6ec123592e.jpg\"><br>Es gilt&nbsp;\\(U_a = \\frac{R_3}{R_1}\\cdot (U_{e2} - U_{e1})\\)"
+            ],
+            "guid": "Qe.=$SG9jk",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"paste-0540644d21347cd8fd41d78b3996f90fe59f3bda.jpg\">",
+                "Eine spannungsgesteuerte Stromquelle<br>Es gilt für den Ausgangsstrom&nbsp;\\(I_2 = \\frac{U_1}{R_1}\\)"
+            ],
+            "guid": "CY7@f|4wAA",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine spannungsgesteuerte Stromquelle?",
+                "<img src=\"paste-0540644d21347cd8fd41d78b3996f90fe59f3bda.jpg\"><br><span style=\"text-align: start;\">Es gilt für den Ausgangsstrom&nbsp;</span>\\(I_2 = \\frac{U_1}{R_1}\\)"
+            ],
+            "guid": "b-K8tlQfv!",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bezeichnet&nbsp;\\(\\varphi_{ui}\\)?",
+                "\\(\\varphi_{ui} = \\varphi_u - \\varphi_i\\)<br>Man unterscheidet dann die Fälle:<br><ul><li>\\(\\varphi_{ui} = 0 \\Leftrightarrow \\textnormal{Strom und Spannung in Phase}\\)<br></li><li>\\(\\varphi_{ui} &gt; 0 \\Leftrightarrow \\textnormal{Spannung ist Strom voraus}\\)</li><li>\\(\\varphi_{ui} &lt; 0 \\Leftrightarrow \\textnormal{Strom ist Spannung voraus}\\)<br></li></ul>"
+            ],
+            "guid": "s87;StGLi&",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Forme&nbsp;\\(|z|e^{j\\varphi}\\)&nbsp;um.",
+                "\\(|z|e^{j\\varphi} = |z|(\\cos(\\varphi) + j\\sin(\\varphi))\\)"
+            ],
+            "guid": "tWGgFzc7a>",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Forme&nbsp;\\(|z|(\\cos(\\varphi) + j\\sin(\\varphi))\\)&nbsp;um.",
+                "\\(|z|(\\cos(\\varphi) + j\\sin(\\varphi)) = |z|e^{j\\varphi}\\)"
+            ],
+            "guid": "B&N>|(f;m&",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Impedanz einer Spule?",
+                "\\(Z = j\\omega L\\)"
+            ],
+            "guid": "qZxNYw(.%!",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Admittanz einer Spule?",
+                "\\(Y = \\frac{1}{j\\omega L} = -j\\frac{1}{\\omega L}\\)"
+            ],
+            "guid": "rccU$:7|q=",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Impedanz eines Kondensators?",
+                "\\(Z = \\frac{1}{j\\omega C} = -\\frac{j}{\\omega C}\\)"
+            ],
+            "guid": "Q]o$[?kltf",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Admittanz eines Kondensators?",
+                "\\(Y = j\\omega C\\)"
+            ],
+            "guid": "GB4t#!RC|0",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Impedanz eines Widerstands?",
+                "\\(Z=R\\)"
+            ],
+            "guid": "wz^1f,E2v7",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Admittanz eines Widerstands?",
+                "\\(Y = \\frac{1}{R} = G\\)"
+            ],
+            "guid": "eauO*,&SHL",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie berechnet man die Gesamtimpedanz zweier Impedanzen in Reihe?",
+                "\\(Z_{ges} = Z_1 + Z_2\\)"
+            ],
+            "guid": "l1!33fZd=d",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie berechnet man die Gesamtadmittanz zweier in Reihe geschalteten Admittanzen?",
+                "\\(Y_{ges} = (\\frac{1}{Y_1} + \\frac{1}{Y_2})^{-1}\\)"
+            ],
+            "guid": "tv+w:,9:0;",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie berechnet man die Gesamtimpedanz zweier in Reihe geschalteten Impedanzen?",
+                "\\(Z_{ges} = (\\frac{1}{Z_1} + \\frac{1}{Z_2})^{-1}\\)"
+            ],
+            "guid": "F~-M;{8}[T",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie berechnet man die Gesamtadmittanz zweier parallel geschalteten Admittanzen?",
+                "\\(Y_{ges} = Y_1 + Y_2\\)"
+            ],
+            "guid": "d[{tzh>?8F",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"paste-dd17e6522ddc6111d4565a45fc31d691abea34c0.jpg\">",
+                "Eine Brückenschaltung<br>Es gilt die Abgleichbedingung&nbsp;\\(\\frac{Z_1}{Z_2} = \\frac{Z_3}{Z_4}\\)"
+            ],
+            "guid": "iW]b:I;y0N",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Brückenschaltung?",
+                "<img src=\"paste-dd17e6522ddc6111d4565a45fc31d691abea34c0.jpg\"><br>Es gilt die Abgleichbedingung&nbsp;\\(\\frac{Z_1}{Z_2} = \\frac{Z_3}{Z_4}\\)"
+            ],
+            "guid": "MhK}8bDDH!",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das Verhalten bzgl. der Phasen von Strom und Spannung?",
+                "<ul><li>Induktivität: Strom kommt zu spät</li><li>Kondensator: Strom geht vor</li></ul>"
+            ],
+            "guid": "LWcRu)UGgs",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wofür steht bei Ortskurven der Wert&nbsp;\\(\\omega_0\\)?",
+                "\\(\\omega = \\omega_0 \\Leftrightarrow Im(Z) = 0 \\textnormal{ bzw. } Im(Y) = 0\\)<br>je nachdem, was man gerade betrachtet}"
+            ],
+            "guid": "x/)t_.4>fi",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist&nbsp;\\(\\omega_1\\)&nbsp;definiert?",
+                "\\(\\omega = \\omega_1 \\Leftrightarrow Im(Z) = Re(Z)\\)<br>bzw.&nbsp;\\(Y\\)"
+            ],
+            "guid": "F{Hp&f!>.k",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist&nbsp;\\(\\omega_2\\)&nbsp;definiert?",
+                "\\(\\omega = \\omega_2 \\Leftrightarrow Im(Z) = -Re(Z)\\)<br>bzw.&nbsp;\\(Y\\)"
+            ],
+            "guid": "z5>kx>i/`*",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist die Dämpfung eines Schwingkreises definiert?",
+                "\\(d = \\frac{b_\\textnormal{w}}{\\omega_0} = \\frac{\\omega_1 - \\omega_2}{\\omega_0}\\)"
+            ],
+            "guid": "Ak-g_3>KQX",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist die Breite des Durchlassbereichs eines Schwingkreises gegeben?",
+                "\\(b_\\textnormal{w} = \\omega_1 - \\omega_2\\)"
+            ],
+            "guid": "r!QKZS}eh%",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist die Güte eines Schwingkreises definiert?",
+                "Güte&nbsp;\\(Q = \\frac{1}{d} = \\frac{\\omega_0}{b_\\textnormal{w}} = \\frac{\\omega_0}{\\omega_1 - \\omega_2}\\)"
+            ],
+            "guid": "y(~^^(LtkJ",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was muss für ein Viertor gelten, damit es als ein Zweitor gilt?",
+                "\\(I_1 = I_3\\;\\;\\land\\;\\; I_2=I_4\\), wobei<br><img src=\"paste-ead035fe18444dd3e158a50a53b2c4112f5f1872.jpg\">"
+            ],
+            "guid": "LY?O-5PNIW",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist eine Größe der Impedanzmatrix definiert?",
+                "\\(Z_{ij} = \\frac{U_i}{I_j}\\Bigg|_{I_p=0}\\)&nbsp;mit&nbsp;\\(p \\neq j\\)"
+            ],
+            "guid": "v}X6H4-r;9",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist eine Größe in der Admittanzmatrix definiert?",
+                "\\(Y_{ij} = \\frac{I_i}{U_j}\\Bigg|_{U_p=0}\\)&nbsp;mit&nbsp;\\(p \\neq j\\)"
+            ],
+            "guid": "b(AmkD<4Nk",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die Bodediagramme passend zum Verhältnis&nbsp;\\(\\frac{1}{1+j\\Omega}\\)?",
+                "<img src=\"paste-81b7f97a99ac67f004ee742280e068da1d97a3d2.jpg\">"
+            ],
+            "guid": "OR9IY(TcH-",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die Bodediagramme passend zum Verhältnis&nbsp;\\(\\frac{j\\Omega}{1+j\\Omega}\\)?",
+                "<img src=\"paste-808f5d2184ceab8bff0e7d2098dbcaeaa8337c5d.jpg\">"
+            ],
+            "guid": "I)>$rRDGYA",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die Bodediagramme passend zum Verhältnis&nbsp;\\({j\\Omega}\\)?",
+                "<img src=\"paste-11e6a50e40c7c5289eddc64f6d54b7fb4b3ca9ca.jpg\">"
+            ],
+            "guid": "rt^?B5rn%`",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die Bodediagramme passend zum Verhältnis&nbsp;\\(1+j\\Omega\\)?",
+                "<img src=\"paste-f7d3d36ae83fec814623bd4a9a3d83f31c84861f.jpg\">"
+            ],
+            "guid": "q8=1{5zKf_",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die Bodediagramme passend zum Verhältnis&nbsp;\\(1-j\\Omega\\)?",
+                "<img src=\"paste-3b7b3a8d710bca229156d9e7b03779fd532b1c05.jpg\">"
+            ],
+            "guid": "FrA!+NY.r^",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die Bodediagramme passend zum Verhältnis&nbsp;\\(1+j10^2\\Omega\\)?",
+                "<img src=\"paste-564466a345dad5eb47256185fba3246ce282129e.jpg\">"
+            ],
+            "guid": "dE>X9Nsovm",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die Bodediagramme passend zum Verhältnis&nbsp;\\(1+j10^{-1}\\Omega\\)?",
+                "<img src=\"paste-34dc6eb879d1a8457342bbac92d4a1ea2439f086.jpg\">"
+            ],
+            "guid": "pW6FlH%HyJ",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?&nbsp;<br><img src=\"22-7.jpg\">",
+                "Allgemeiner Impedanzkonverter<br>Es gilt&nbsp;\\(Z_e = -\\frac{Z_P}{Z_N}\\cdot Z_L\\)"
+            ],
+            "guid": "vbJMcNxf}V",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie sieht ein allgemeiner Impedanzkonverter aus und wie berechnet man die Eingangsimpedanz&nbsp;\\(Z_e\\)?",
+                "<img src=\"22-7.jpg\"><br>Es gilt&nbsp;\\(Z_e = -\\frac{Z_P}{Z_N}\\cdot Z_L\\)"
+            ],
+            "guid": "l.uz_aBh^}",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"paste-c759ebce34b5f846108e2f7e098fb67457b22f7f.jpg\">",
+                "Ein verdoppelter Impedanzkonverter<br>Es gilt&nbsp;\\(Z_e = \\frac{Z_2\\cdot Z_4}{Z_3\\cdot Z_5}\\cdot Z_L\\)"
+            ],
+            "guid": "nBEK`k:}{(",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist eine Größe in der Kettenmatrix definiert?",
+                "\\(A_{11} = \\frac{U_1}{U_2}\\Bigg|_{I_2=0}\\)<br>\\(A_{12} = -\\frac{U_1}{I_2}\\Bigg|_{U_2=0}\\)<br>\\(A_{21} = \\frac{I_1}{U_2}\\Bigg|_{I_2=0}\\)<br>\\(A_{22} = \\frac{I_1}{I_2}\\Bigg|_{U_2=0}\\)"
+            ],
+            "guid": "b;$bK56rXJ",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist die Gleichung zur Messvorschrift für Impedanzmatrizen?",
+                "\\( \\begin{bmatrix}\n    U_1\\\\\n    U_2\\\\\n \\end{bmatrix} =\n \\begin{bmatrix}\n    Z_{11} &amp; Z_{12} \\\\\n    Z_{21} &amp; Z_{22} \\\\\n \\end{bmatrix} \\cdot\n \\begin{bmatrix}\n    I_1 \\\\\n    I_2 \\\\\n \\end{bmatrix}\\)"
+            ],
+            "guid": "ymUn.s{yAd",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist die Gleichung zur Messvorschrift für Admittanzmatrizen?",
+                "\\( \\begin{bmatrix}\n    I_1\\\\\n    I_2\\\\\n \\end{bmatrix} =\n \\begin{bmatrix}\n    Y_{11} &amp; Y_{12} \\\\\n    Y_{21} &amp; Y_{22} \\\\\n \\end{bmatrix} \\cdot\n \\begin{bmatrix}\n    U_1 \\\\\n    U_2 \\\\\n \\end{bmatrix}\\)"
+            ],
+            "guid": "tsc8QGD&LZ",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ist die Gleichung zur Messvorschrift für Kettenmatrizen?",
+                "\\( \\begin{bmatrix}\n    U_1\\\\\n    I_1\\\\\n \\end{bmatrix} =\n \\begin{bmatrix}\n    A_{11} &amp; A_{12} \\\\\n    A_{21} &amp; A_{22} \\\\\n \\end{bmatrix} \\cdot\n \\begin{bmatrix}\n    U_2 \\\\\n    -I_2 \\\\\n \\end{bmatrix}\\)"
+            ],
+            "guid": "L(`O-FDf*%",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann ist ein Vierpol kopplungssymmetrisch?",
+                "\\(\\Leftrightarrow\\;\\; Z_{12} = Z_{21}\\)"
+            ],
+            "guid": "c`B59a0DiF",
+            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie berechnet man die Blindleistung?",
+                "\\(Q = U\\cdot I \\cdot \\sin(\\phi_{ui})\\), Einheit var"
+            ],
+            "guid": "dfCWIRo6pU",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie berechnet man die Wirkleistung?",
+                "\\(P=U\\cdot I \\cdot\\cos(\\phi_{ui})\\), Einheit Watt"
+            ],
+            "guid": "Q4wR8UiB79",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie berechnet man die Scheinleistung?",
+                "\\(S = U\\cdot I\\), Einheit VA"
+            ],
+            "guid": "yQ5zAWYVm=",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist&nbsp;\\(\\textnormal{Re}(S)\\)&nbsp;mit&nbsp;\\(S\\)&nbsp;Scheinleistung?",
+                "\\(\\textnormal{Re}(S) = P\\)&nbsp;mit&nbsp;\\(P\\)&nbsp;Wirkleistung"
+            ],
+            "guid": "Gfu==Z:|KS",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist&nbsp;\\(\\textnormal{Im}(S)\\)&nbsp;mit&nbsp;\\(S\\)&nbsp;Scheinleistung?",
+                "\\(\\textnormal{Re}(S) = Q\\)&nbsp;mit&nbsp;\\(Q\\)&nbsp;Blindleistung"
+            ],
+            "guid": "uY{dXd5Qd8",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie sehen die Größen Scheinleistung&nbsp;\\(S\\), Wirkleistung&nbsp;\\(P\\)&nbsp;und Blindleistung&nbsp;\\(Q\\)&nbsp;im komplexen aus?",
+                "<img src=\"paste-e3b5ee984e8da53b48b0742321e1bf3269a5781c.jpg\">"
+            ],
+            "guid": "z_iP?dg@q6",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie erkennt man anhand der Übertragungsfunktion die Ordnung des Filters?",
+                "Anhand des Exponenten um die Übertragungsfunktion:<br>z.B.:&nbsp;\\(\\frac{1}{(1+j\\Omega)^x}\\)&nbsp;bezeichnet einen Tiefpass&nbsp;\\(x\\)-ter Ordnung"
+            ],
+            "guid": "v=^Oe(m&4K",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie wirkt sich die Ordnung des Filters auf die Amplituden und den Phasengang aus?",
+                "Ein Filter&nbsp;\\(n\\)-ter Ordnung:<br><ul><li>dämpft Amplituden mit&nbsp;\\(n\\cdot 20dB\\)&nbsp;pro Dekade</li><li>Verschiebt den Phasengang im Sperrbereich durch&nbsp;\\(n\\cdot \\frac{\\pi}{2}\\)</li></ul>"
+            ],
+            "guid": "d!!J/[+~)h",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bezeichnet&nbsp;\\(\\textnormal{arg}\\{z\\}\\)?",
+                "Den Winkel / Die Phase von&nbsp;\\(z\\)"
+            ],
+            "guid": "g;mk+a|`9b",
+            "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
