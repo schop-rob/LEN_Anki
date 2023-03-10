@@ -35,7 +35,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 10
+                "perDay": 15
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -645,7 +645,9 @@
             ],
             "guid": "zbd[%s;J)v",
             "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -655,7 +657,9 @@
             ],
             "guid": "bsSZelT,/+",
             "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -954,16 +958,6 @@
                 "\\(Y_{ges} = (\\frac{1}{Y_1} + \\frac{1}{Y_2})^{-1}\\)"
             ],
             "guid": "tv+w:,9:0;",
-            "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wie berechnet man die Gesamtimpedanz zweier in Reihe geschalteten Impedanzen?",
-                "\\(Z_{ges} = (\\frac{1}{Z_1} + \\frac{1}{Z_2})^{-1}\\)"
-            ],
-            "guid": "F~-M;{8}[T",
             "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
             "tags": []
         },
