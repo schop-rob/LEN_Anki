@@ -803,16 +803,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie berechnet man die Gesamtimpedanz zweier in Reihe geschalteten Impedanzen?",
-                        "\\(Z_{ges} = (\\frac{1}{Z_1} + \\frac{1}{Z_2})^{-1}\\)"
-                    ],
-                    "guid": "F~-M;{8}[T",
-                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Wie berechnet man die Gesamtadmittanz zweier parallel geschalteten Admittanzen?",
                         "\\(Y_{ges} = Y_1 + Y_2\\)"
                     ],
