@@ -28,16 +28,21 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "paste-0ca00c3cefdc4a90b497d1b106675f0051bbd2da.jpg",
                 "paste-1f32e9ba94a262832f1fcb807bbe9b3f11e2cf64.jpg",
+                "paste-285982fa3789a1437d5674df76b8308861c01a30.png",
                 "paste-2ccb9d1374573eb9dbcd5d57b2a44041900fb857.jpg",
                 "paste-3c58f191752f03a6e7b03937717a477199d7313e.jpg",
+                "paste-4967040308c6bf51a0ec7f72952d4afcb7800fb6.png",
                 "paste-5a915159c54cbcafcf455170f90f00a9eac622e8.jpg",
+                "paste-8e1ed2f6ad7a03c66be05145aec710ffeaf992da.png",
+                "paste-a0e1e12fc0b721b6e707e40bb07bdc892a678798.png",
+                "paste-b682babd701ae6e6db27361143bd5866b1e99c18.png",
                 "paste-bd86b4fcb7a6cee834d2f215c4ad4d77de72c99f.jpg",
                 "paste-c41b8c78692cfe6b4520b2a9ed66b94cf002a81c.jpg",
                 "paste-e01b24b98628166a45169b8aec0c96ae6718103a.png",
                 "paste-e4cb7b3cc2d4c918afd0aa7f18a2725e37cf2f6a.jpg",
-                "paste-eaa33112f8d752cffc0f54f8dd8cc09a82c316fc.jpg"
+                "paste-eaa33112f8d752cffc0f54f8dd8cc09a82c316fc.jpg",
+                "paste-f01f53e882e94c68c7fb25841421913278576d9b.png"
             ],
             "name": "01. Gleichstrom-Widerstandsnetze",
             "newLimit": null,
@@ -46,8 +51,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was ist die formel für kinetische Energie, gegeben einer Masse&nbsp;\\(m\\)&nbsp;und einer Geschwindigkeit&nbsp;\\(v\\)?",
-                        "\\(W = \\frac{1}{2}mv^2\\)"
+                        "Was ist die Formel für kinetische Energie, gegeben einer Masse&nbsp;\\(m\\)&nbsp;und einer Geschwindigkeit&nbsp;\\(v\\)?",
+                        "\\(W_{kin} = \\frac{1}{2}mv^2\\)"
                     ],
                     "guid": "J;~EV)[hN-",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -56,8 +61,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was ist die Definition für die Einheit Newton?",
-                        "<img src=\"paste-0ca00c3cefdc4a90b497d1b106675f0051bbd2da.jpg\">"
+                        "Was ist die Definition für die physikalische Größe Kraft?",
+                        "<span style=\"color: var(--field-fg); font-family: -apple-system-body; background: var(--field-bg);\">\\[[F]=1N = 1 \\frac{kg*m}{s^2}\\]</span><br><div><span style=\"color: var(--field-fg); font-family: -apple-system-body; background: var(--field-bg);\"><br></span></div><div><span style=\"color: var(--field-fg); font-family: -apple-system-body; background: var(--field-bg);\"><br></span></div>"
                     ],
                     "guid": "PlcNHvN}1^",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -77,7 +82,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was ist das Formelzeichen für elektrische Ladungen und was ist die dazugehörige Einheit?",
-                        "\\([\\textnormal{Q}] = 1\\textnormal{C}\\)&nbsp;\"Coulomb\""
+                        "\\([\\textnormal{Q}]\n\n&nbsp;= 1\\textnormal{As} = 1\\textnormal{C} \\)&nbsp;\"Coulomb<span style=\"color: var(--field-fg); font-family: -apple-system-body; background: var(--field-bg);\">\"</span>"
                     ],
                     "guid": "Qi,4Zdx;E[",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -87,7 +92,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was bezeichnet die Ladungsquantisierung?",
-                        "Alle Ladungen sind ein ganzzahliges Vielfaches der Elementarladung<br>\\(Q = n\\cdot e,\\;\\;n \\in \\mathbb{Z}\\)"
+                        "Alle Ladungen sind ganzzahlige Vielfache der Elementarladung<br>\\(Q = n\\cdot e,\\;\\;n \\in \\mathbb{Z}\\)"
                     ],
                     "guid": "N2.vc+Dn|=",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -97,7 +102,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Wann sind Atome elektrisch neutral?",
-                        "\\(\\Leftrightarrow\\; \\#p = \\#e\\; \\Leftrightarrow\\; |Q_p| = |Q_e|\\)"
+                        "\\(\\Leftrightarrow\\; \\#p = \\#e\\; \\Leftrightarrow\\; |Q_p| = |Q_e|\\)<div>Wenn die Anzahl der Protonen gleich der Anzahl der Elektronen ist.</div>"
                     ],
                     "guid": "qB+74Xr7$W",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -117,7 +122,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was bezeichnet&nbsp;\\(\\overset{\\rightharpoonup}n\\)?",
-                        "Den Flächennormalvektor, der senkrecht auf der Querschnittsfläche steht"
+                        "Den Flächennormalvektor, der senkrecht auf der Querschnittsfläche des Leiters steht<div><img src=\"paste-285982fa3789a1437d5674df76b8308861c01a30.png\"><br></div><div>Achtung: hier sind positive Ladungsträger abgebildet!&nbsp;</div>"
                     ],
                     "guid": "i5Anb!<Nzd",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -127,7 +132,7 @@
                     "__type__": "Note",
                     "fields": [
                         "<div>Was sagt das Ohmsche Gesetz zu den Größen von Spannung, Strom und Widerstand aus?</div>",
-                        "\\(\\underbrace{\\textnormal{R}}_{Widerstand} = \\frac{\\overbrace{\\textnormal{U}}^{Spannung}}{\\underbrace{\\textnormal{I}}_{Stromstärke}}\\)"
+                        "\\(\\underbrace{\\textnormal{R}}_{Widerstand} = \\frac{\\overbrace{\\textnormal{U}}^{Spannung}}{\\underbrace{\\textnormal{I}}_{Stromstärke}}\\)<div><br></div><div>oder umgeformt:</div><div>\\[U=R*I\\]<br></div>"
                     ],
                     "guid": "f>`&L,Z_%E",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -137,7 +142,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was bezeichnet die Stromstärke?",
-                        "Wie viele Ladungsträger gehen pro Zeit durch den Querschnitt?"
+                        "Wie viele Ladungsträger gehen pro Zeit durch den Querschnitt"
                     ],
                     "guid": "A]q`klqVT",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -157,7 +162,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was ist technischer Strom?",
-                        "Die Stromrichtung in technischem Strom geht von 'Bewegung' der positiven Ladung aus"
+                        "Die Stromrichtung in technischem Strom geht von 'Bewegung' der positiven Ladung aus.<div>Ist entgegengesetzt der Bewegung der Elektronen.</div><div><img src=\"paste-285982fa3789a1437d5674df76b8308861c01a30.png\"><br></div>"
                     ],
                     "guid": "ew;3RNGw&(",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -177,7 +182,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was ist das Formelzeichen für elektrisches Potenzial, und was ist die zugehörige Einheit?",
-                        "\\([\\varphi] = 1\\textnormal{V}\\)"
+                        "\\([\\phi] =[\\frac{W}{Q}]=1\\frac{J}{As}= 1\\textnormal{V}\\)<div>W = Energie die es benötigt Ladung Q vom Referenzpunkt an den betrachteten Punkt zu bringen.</div><div><img src=\"paste-a0e1e12fc0b721b6e707e40bb07bdc892a678798.png\"><br></div>"
                     ],
                     "guid": "qR!9Gr}$GJ",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -247,7 +252,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was für Konventionen gibt es für Zählpfeile?",
-                        "<ul><li>Der Stromzählpfeil hinter einer Quelle zeigt von '+' nach '-'</li><li>Der Spannungszählpfeil über Spannungsquellen zeigt von '+' nach '-'</li><li>Der Spannungszählpfeil über einen Verbraucher zeigt in die gleiche Richtung wie der zugehörige Stromzählpfeil</li><li>Die Spannungszählpfeile in Zweigen ohne Quellen zeigen in beliebige Richtungen, Spannungs- und Stromzählpfeile zeigen aber in die gleiche Richtung</li></ul>"
+                        "<ul><li>Der Stromzählpfeil hinter einer Quelle zeigt von '+' nach '-'</li><li>Der Spannungszählpfeil über Spannungsquellen zeigt von '+' nach '-'<img src=\"paste-4967040308c6bf51a0ec7f72952d4afcb7800fb6.png\" style=\"color: var(--field-fg); font-family: -apple-system-body; font-size: -apple-system-body; font-style: -apple-system-body; font-variant-caps: -apple-system-body; font-weight: -apple-system-body;\"></li><li>Der Spannungszählpfeil über einen Verbraucher zeigt in die gleiche Richtung wie der zugehörige Stromzählpfeil<img src=\"paste-8e1ed2f6ad7a03c66be05145aec710ffeaf992da.png\" style=\"color: var(--field-fg); font-family: -apple-system-body; font-size: -apple-system-body; font-style: -apple-system-body; font-variant-caps: -apple-system-body; font-weight: -apple-system-body;\"></li><li>Die Spannungszählpfeile in Zweigen ohne Quellen zeigen in beliebige Richtungen, Spannungs- und Stromzählpfeile zeigen aber in die gleiche Richtung</li></ul>"
                     ],
                     "guid": "AQ$@lXJ=3?",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -267,7 +272,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was ist das Formelzeichen und die Einheit für Leistung?",
-                        "\\([P] = 1\\frac{J}{s}=V\\cdot A=1\\textnormal{ Watt}\\)"
+                        "\\([P] = 1\\frac{J}{s}=1\\textnormal{VA}=1\\textnormal{ Watt}\\)"
                     ],
                     "guid": "q`3Fol*4<(",
                     "note_model_uuid": "4fa5a7e0-a3ae-11ed-8bea-5fc64ce04756",
@@ -356,7 +361,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was gilt für den Widerstand zweier Widerstände&nbsp;\\(R_1\\)&nbsp;&amp;&nbsp;\\(R_2\\)?",
+                        "Was ist der Ersatzwiderstand von zwei parallel geschalteten Widerständen \\(R_1\\)&nbsp;&amp;&nbsp;\\(R_2\\)?",
                         "\\(R_{ges} = \\frac{R_1R_2}{R_1+R_2}\\)"
                     ],
                     "guid": "jrrn767I7!",
@@ -366,11 +371,61 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was gilt für den Widerstand von drei parallelen Widerständen&nbsp;\\(R_1, R_2 \\textnormal{ und } R_3\\)?",
-                        "\\(\\frac{1}{R_{ges}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}\\)"
+                        "Was gilt für den Gesamtwiderstand von drei parallelen Widerständen&nbsp;\\(R_1, R_2 \\textnormal{ und } R_3\\)?",
+                        "\\(\\frac{1}{R_{ges}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}\\)<div><br></div><div>Mit den korrespondierenden Leitwerten:</div><div>\\(G_{ges} = G_1 + G_2 + G_3\\)<br></div>"
                     ],
                     "guid": "H!w$|[v)sl",
                     "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Leitwert vom Widerstand&nbsp;\\(R\\)?",
+                        "\\(G = \\frac{1}{R}\\)<br>"
+                    ],
+                    "guid": "cRX?|qBn<;",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Einheit für einen Leitwert?",
+                        "Simens, abgekürzt S&nbsp;<div>\\(S = \\frac{A}{V}\\)<br></div>"
+                    ],
+                    "guid": "Q.qJE;D~/t",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welcher Einheit wird der elektrische Widerstand gemessen?",
+                        "Ohm&nbsp;<div>\\( \\Omega = \\frac{V}{A} \\)<br></div>"
+                    ],
+                    "guid": "hnj@E7|jt{",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist der Innenwiderstand einer linearen Spannungsquelle definiert?",
+                        "\\(Innenwiderstand = \\frac{Leerlaufspannung}{Kurzschlussstrom}\\)<br><div><img src=\"paste-f01f53e882e94c68c7fb25841421913278576d9b.png\"><br></div>"
+                    ],
+                    "guid": "G}LO8m2]u^",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist der Innenleitwert einer linearen Stromquelle definiert?",
+                        "\\(Innenleitwert = \\frac{Kurzschlussstrom}{Leerlaufspannung}\\)<br><div><img src=\"paste-b682babd701ae6e6db27361143bd5866b1e99c18.png\"><br></div>"
+                    ],
+                    "guid": "B:Nk1Q:Qat",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
                     "tags": []
                 }
             ],
@@ -597,8 +652,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was ist das?<br><img src=\"paste-9efd09273ed0c6b7c73c78009e80da18282a5c2c.jpg\">",
-                        "Ein invertierender Addierer<br>Es gilt&nbsp;\\(U_a = -R_2 \\cdot (\\frac{U_{e1}}{R_{11}} + \\frac{U_{e2}}{R_{12}} + \\frac{U_{e3}}{R_{13}})\\)"
+                        "Was ist hier abgebildet und wie berechnet sich&nbsp;\\(U_a\\)?<br><img src=\"paste-9efd09273ed0c6b7c73c78009e80da18282a5c2c.jpg\">",
+                        "Ein invertierender Addierer<br>Es gilt&nbsp;\\(U_a = -R_2 \\cdot (\\frac{U_{e1}}{R_{11}} + \\frac{U_{e2}}{R_{12}} + \\frac{U_{e3}}{R_{13}})= -R_2 \\cdot I_{N}\\)"
                     ],
                     "guid": "eBGpr%7_%T",
                     "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
@@ -799,6 +854,16 @@
                         "\\(Y_{ges} = (\\frac{1}{Y_1} + \\frac{1}{Y_2})^{-1}\\)"
                     ],
                     "guid": "tv+w:,9:0;",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie berechnet man die Gesamtimpedanz zweier in Reihe geschalteten Impedanzen?",
+                        "\\(Z_{ges} = (\\frac{1}{Z_1} + \\frac{1}{Z_2})^{-1}\\)"
+                    ],
+                    "guid": "F~-M;{8}[T",
                     "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
                     "tags": []
                 },
