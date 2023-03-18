@@ -1602,7 +1602,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was ist die allgemeine Form dieser Impedanzmatrix, angenommen die Schaltung ist kopplungssymmetrisch?<br>\\([Y] = \\begin{bmatrix}\nY_{11} &amp; Y_{12}\\\\\nY_{21} &amp; Y_{22}\n\\end{bmatrix}\\)",
+                        "Was ist die allgemeine Form dieser Admittanzmatrix, angenommen die Schaltung ist kopplungssymmetrisch?<br>\\([Y] = \\begin{bmatrix}\nY_{11} &amp; Y_{12}\\\\\nY_{21} &amp; Y_{22}\n\\end{bmatrix}\\)",
                         "<img src=\"paste-75e5d16f31406b1de8a3229aed44024b073518d0.jpg\">"
                     ],
                     "guid": "izsWb;F1+u",
