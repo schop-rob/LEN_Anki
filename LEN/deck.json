@@ -583,7 +583,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Welche Annahmen machen wir für den idealen Operationsverstärker?",
-                        "<ul><li>\\(U_d = 0\\)<br></li><li>\\(R_{\\textnormal{ein}} \\rightarrow \\infty; \\Rightarrow I_p \\rightarrow 0,\\;I_n \\rightarrow 0\\)</li><li>\\(U_a\\)&nbsp;ist maximal so groß wie&nbsp;\\(V^+\\)&nbsp;oder&nbsp;\\(V^-\\)<br></li></ul>"
+                        "<ul><li>\\(U_d = 0\\)<br></li><li>Eingangswiderstand\\(R_{\\textnormal{d}} \\rightarrow \\infty; \\Rightarrow I_p \\rightarrow 0,\\;I_n \\rightarrow 0\\)</li><li>Ausgangswidersand\\(R_{\\textnormal{a}} \\rightarrow 0;\\)</li><li>\\(U_a\\)&nbsp;ist maximal so groß wie&nbsp;\\(V^+\\)&nbsp;oder&nbsp;\\(V^-\\)<br></li></ul>"
                     ],
                     "guid": "eTXb$6}-Jk",
                     "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
@@ -753,7 +753,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was bezeichnet&nbsp;\\(\\varphi_{ui}\\)?",
-                        "\\(\\varphi_{ui} = \\varphi_u - \\varphi_i\\)<br>Man unterscheidet dann die Fälle:<br><ul><li>\\(\\varphi_{ui} = 0 \\Leftrightarrow \\textnormal{Strom und Spannung in Phase}\\)<br></li><li>\\(\\varphi_{ui} &gt; 0 \\Leftrightarrow \\textnormal{Spannung ist Strom voraus}\\)</li><li>\\(\\varphi_{ui} &lt; 0 \\Leftrightarrow \\textnormal{Strom ist Spannung voraus}\\)<br></li></ul>"
+                        "\\(\\varphi_{ui} = \\varphi_u - \\varphi_i\\)<br>Man unterscheidet dann die Fälle:\\(\\varphi_{ui} = 0 \\Leftrightarrow \\textnormal{Strom und Spannung in Phase}\\)\\(\\varphi_{ui} &gt; 0 \\Leftrightarrow \\textnormal{Spannung geht Strom voraus}\\)\\(\\varphi_{ui} &lt; 0 \\Leftrightarrow \\textnormal{Spannung folgt Strom}\\)"
                     ],
                     "guid": "s87;StGLi&",
                     "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
@@ -862,6 +862,16 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Wie berechnet man die Gesamtimpedanz zweier in Reihe geschalteten Impedanzen?",
+                        "\\(Z_{ges} = Z_1+Z_2\\)"
+                    ],
+                    "guid": "F~-M;{8}[T",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Wie berechnet man die Gesamtadmittanz zweier parallel geschalteten Admittanzen?",
                         "\\(Y_{ges} = Y_1 + Y_2\\)"
                     ],
@@ -942,7 +952,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie berechnet man die Scheinleistung?",
+                        "Wie berechnet man die reelle Scheinleistung?",
                         "\\(S = U\\cdot I\\), Einheit VA"
                     ],
                     "guid": "yQ5zAWYVm=",
@@ -962,8 +972,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was ist&nbsp;\\(\\textnormal{Im}(S)\\)&nbsp;mit&nbsp;\\(S\\)&nbsp;Scheinleistung?",
-                        "\\(\\textnormal{Re}(S) = Q\\)&nbsp;mit&nbsp;\\(Q\\)&nbsp;Blindleistung"
+                        "Was ist&nbsp;\\(\\textnormal{Im}(\\underline{S})\\)&nbsp;mit&nbsp;\\(\\underline{S}\\)&nbsp;Scheinleistung?",
+                        "\\(\\textnormal{Im}(\\underline{S}) = Q\\)&nbsp;mit&nbsp;\\(Q\\)&nbsp;Blindleistung"
                     ],
                     "guid": "uY{dXd5Qd8",
                     "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
@@ -976,6 +986,56 @@
                         "<img src=\"paste-e3b5ee984e8da53b48b0742321e1bf3269a5781c.jpg\">"
                     ],
                     "guid": "z_iP?dg@q6",
+                    "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Scheinleistung?",
+                        "gesamte Leistung, die eine Quelle einem Verbraucher zur Verfügung stellen muss"
+                    ],
+                    "guid": "l1pq`Z{v<1",
+                    "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Blindleistung?",
+                        "Die Leistung, die periodisch zwischen Quelle und Last ausgetauscht wird"
+                    ],
+                    "guid": "d+!,<i$$dS",
+                    "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Wirkleistung?",
+                        "Die Leistung, die im Realteil der Lastimpedanz in Wärme umgesetzt wird"
+                    ],
+                    "guid": "kIKvAl/,?l",
+                    "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie berechnet man die komplexe Scheinleistung?",
+                        "\\(S=\\underline{U}\\cdot\\underline{I}^*\\)&nbsp;Strom komplex konjugiert"
+                    ],
+                    "guid": "E]UnLW7KLa",
+                    "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie berechnet man die Scheinleistung aus Blind- und Wirkleistung?",
+                        "\\(S=\\sqrt{P^2+Q^2}\\)"
+                    ],
+                    "guid": "eio..)2;-o",
                     "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
                     "tags": []
                 }
@@ -1145,11 +1205,45 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "DeepinScreenshot_select-area_20230315163452.png",
+                "paste-3b1a63f235f4168f153d39937aa8f60c5465aadc.png"
+            ],
             "name": "10. Energieübertragung von der Quelle zum Verbraucher",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist der Wirkungsgrad definiert?",
+                        "\\(\\eta = \\frac{P_L}{P_{ges}}\\)&nbsp; <br>\\(\\eta \\)&nbsp;(eta) als einheitslose Größe (kann in % umgerechnet werden)<br>\\(P_L\\)&nbsp;in Last umgesetzte (Wirk-)Leistung<br>\\(P_{ges}\\)&nbsp;vom Generator zur Verfügung gestellte Wirkleistung"
+                    ],
+                    "guid": "siXY*d->]~",
+                    "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie muss man&nbsp;\\(R_L\\)&nbsp;und&nbsp;\\(X_L\\)&nbsp;wählen um die Wirkleistung zu maximieren?<br><img src=\"DeepinScreenshot_select-area_20230315163452.png\">",
+                        "\\(R_L = R_i\\)<br>\\(X_L = -X_i\\)<br>bzw:<br>\\(\\underline{Z}_L = \\underline{Z}_i^*\\)"
+                    ],
+                    "guid": "O`VY+l.dq$",
+                    "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wenn&nbsp;\\(X_i\\) und&nbsp;\\(X_L\\) das gleiche Vorzeichen haben, wie muss man dann&nbsp;\\(R_L\\)&nbsp;und&nbsp;\\(X_L\\) wählen, um die Wirkleistung zu maximieren?<img src=\"paste-3b1a63f235f4168f153d39937aa8f60c5465aadc.png\">",
+                        "\\(\\lvert Z_i \\rvert=\\lvert Z_L\\rvert\\)"
+                    ],
+                    "guid": "rDg=0pJ!7W",
+                    "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
