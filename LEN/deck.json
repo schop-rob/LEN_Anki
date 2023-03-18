@@ -1553,7 +1553,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Wie sind&nbsp;\\(\\phi_1\\)&nbsp;und&nbsp;\\(\\phi_2\\)&nbsp;definiert?",
-                        "\\(\\phi_1 = \\phi_{11} + \\phi_{21}\\)&nbsp;als gesamter Fluss der Primärspule<br><br>\\(\\phi_2 = \\phi_{21} + \\phi_{12}\\)&nbsp;als gesamter Fluss der Sekundärspule"
+                        "\\(\\phi_1 = \\phi_{11} + \\phi_{12}\\)&nbsp;als gesamter Fluss der Primärspule<br><br>\\(\\phi_2 = \\phi_{22} + \\phi_{21}\\)&nbsp;als gesamter Fluss der Sekundärspule"
                     ],
                     "guid": "OGoCsRD#9",
                     "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
