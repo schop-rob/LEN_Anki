@@ -742,7 +742,9 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "paste-5212d373e49e5727b056b3d5d7d6f0e51d253db4.jpg"
+            ],
             "name": "04. Komplexe Wechselstromlehre",
             "newLimit": null,
             "newLimitToday": null,
@@ -884,6 +886,16 @@
                         "Den Winkel / Die Phase von&nbsp;\\(z\\)"
                     ],
                     "guid": "g;mk+a|`9b",
+                    "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie muss&nbsp;\\(Z_L\\)&nbsp;gewählt werden, um den maximalen Wirkungsgrad zu erzielen (Leistungsanpassung)?<br><img src=\"paste-5212d373e49e5727b056b3d5d7d6f0e51d253db4.jpg\">",
+                        "Wähle&nbsp;\\(R_L = R_i\\)&nbsp;und&nbsp;\\(X_L = -X_i\\), also:<br><br>\\(Z_L = Z_i^*\\)"
+                    ],
+                    "guid": "N2[Wu,;V/7",
                     "note_model_uuid": "4fa60f46-a3ae-11ed-8bea-5fc64ce04756",
                     "tags": []
                 }
@@ -1431,7 +1443,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was ist die magnetische Flussdichte?",
-                        "\\(\\overrightarrow{B} = \\underbrace{\\mu_r}_{relative\\; Permeabilitätszahl}\\cdot \\overbrace{\\mu_0}^{im\\; Vakuum}\\cdot\\overrightarrow{H}\\)<br>wobei bei Luft gilt:&nbsp;<br>\\(\\mu_r \\approx 1\\)"
+                        "\\(\\overrightarrow{B} = \\underbrace{\\mu_r}_{relative\\; Permeabilitätszahl}\\cdot \\overbrace{\\mu_0}^{im\\; Vakuum}\\cdot\\overrightarrow{H}\\)<br><br>wobei bei Luft gilt:&nbsp;<br>\\(\\mu_r \\approx 1\\)"
                     ],
                     "guid": "yk:<B;vFfI",
                     "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
