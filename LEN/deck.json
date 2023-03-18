@@ -1416,6 +1416,11 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "paste-260ecbf51effc9c53fe531f5dd06b87a22af2e7f.jpg",
+                "paste-75e5d16f31406b1de8a3229aed44024b073518d0.jpg",
+                "paste-7e593b8ba83bd6a1b0a5cc6803b16e130c5f2367.jpg",
+                "paste-8c88d6269e4d616f46a039b954e6b44679b823fe.jpg",
+                "paste-f823b0fae9c497c4fb152ffd740d0d902db25d49.jpg",
                 "paste-f96fe8882e37d45afc3673fce79917e6801afe4c.jpg"
             ],
             "name": "14. Der Transformator",
@@ -1539,6 +1544,56 @@
                         "\\(\\phi_1 = \\phi_{11} + \\phi_{21}\\)&nbsp;als gesamter Fluss der Primärspule<br><br>\\(\\phi_2 = \\phi_{21} + \\phi_{12}\\)&nbsp;als gesamter Fluss der Sekundärspule"
                     ],
                     "guid": "OGoCsRD#9",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mit welchen drei Gleichungen lässt sich diese Schaltung vollständig beschreiben?<br><img src=\"paste-7e593b8ba83bd6a1b0a5cc6803b16e130c5f2367.jpg\">",
+                        "\\(U_1 = (R_1 + j\\omega L_1)I_1 + j\\omega M I_2\\)<br>\\(U_2 = j\\omega MI_1 + (R_2 + j\\omega L_2)I_2\\)<br>\\(U_2 = -Z_V\\cdot I_2\\)"
+                    ],
+                    "guid": "HS$3?V1OH8",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Impedanzmatrix zu dieser Schaltung?<br><img src=\"paste-f823b0fae9c497c4fb152ffd740d0d902db25d49.jpg\">",
+                        "\\([Z] = \\begin{bmatrix}\nZ_1 + Z_3 &amp; Z_3\\\\\nZ_3 &amp; Z_2 + Z_3\n\\end{bmatrix}\\)<br>"
+                    ],
+                    "guid": "pouj@%OG;Y",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die zugehörige Admittanzmatrix zu dieser Schaltung?<br><img src=\"paste-260ecbf51effc9c53fe531f5dd06b87a22af2e7f.jpg\">",
+                        "\\([Y] = \\begin{bmatrix}\nY_1 + Y_2 &amp; -Y_2\\\\\n-Y_2 &amp; Y_2 + Y_3\n\\end{bmatrix}\\)"
+                    ],
+                    "guid": "jzmpvjo90A",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die allgemeine Form dieser Impedanzmatrix, angenommen die Schaltung ist kopplungssymmetrisch?<br>\\([Z] = \\begin{bmatrix}\nZ_{11} &amp; Z_{12}\\\\\nZ_{21} &amp; Z_{22}\n\\end{bmatrix}\\)",
+                        "<img src=\"paste-8c88d6269e4d616f46a039b954e6b44679b823fe.jpg\">"
+                    ],
+                    "guid": "icu#~YC1I[",
+                    "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die allgemeine Form dieser Impedanzmatrix, angenommen die Schaltung ist kopplungssymmetrisch?<br>\\([Y] = \\begin{bmatrix}\nY_{11} &amp; Y_{12}\\\\\nY_{21} &amp; Y_{22}\n\\end{bmatrix}\\)",
+                        "<img src=\"paste-75e5d16f31406b1de8a3229aed44024b073518d0.jpg\">"
+                    ],
+                    "guid": "izsWb;F1+u",
                     "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
                     "tags": []
                 }
