@@ -583,7 +583,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Welche Annahmen machen wir für den idealen Operationsverstärker?",
-                        "<ul><li>\\(U_d = 0\\)<br></li><li>Eingangswiderstand\\(R_{\\textnormal{d}} \\rightarrow \\infty; \\Rightarrow I_p \\rightarrow 0,\\;I_n \\rightarrow 0\\)</li><li>Ausgangswidersand\\(R_{\\textnormal{a}} \\rightarrow 0;\\)</li><li>\\(U_a\\)&nbsp;ist maximal so groß wie&nbsp;\\(V^+\\)&nbsp;oder&nbsp;\\(V^-\\)<br></li></ul>"
+                        "<ul><li>\\(U_d = 0\\)<br></li><li>Eingangswiderstand \\(R_{\\textnormal{d}} \\rightarrow \\infty; \\Rightarrow I_p \\rightarrow 0,\\;I_n \\rightarrow 0\\)</li><li>Ausgangswidersand \\(R_{\\textnormal{a}} \\rightarrow 0;\\)</li><li>\\(U_a\\)&nbsp;ist maximal so groß wie&nbsp;\\(V^+\\)&nbsp;oder&nbsp;\\(V^-\\)<br></li></ul>"
                     ],
                     "guid": "eTXb$6}-Jk",
                     "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
@@ -753,7 +753,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was bezeichnet&nbsp;\\(\\varphi_{ui}\\)?",
-                        "\\(\\varphi_{ui} = \\varphi_u - \\varphi_i\\)<br>Man unterscheidet dann die Fälle:\\(\\varphi_{ui} = 0 \\Leftrightarrow \\textnormal{Strom und Spannung in Phase}\\)\\(\\varphi_{ui} &gt; 0 \\Leftrightarrow \\textnormal{Spannung geht Strom voraus}\\)\\(\\varphi_{ui} &lt; 0 \\Leftrightarrow \\textnormal{Spannung folgt Strom}\\)"
+                        "\\(\\varphi_{ui} = \\varphi_u - \\varphi_i\\)<br>Man unterscheidet dann die Fälle:<div>\\(\\varphi_{ui} = 0 \\Leftrightarrow \\textnormal{Strom und Spannung in Phase}\\)<div>\\(\\varphi_{ui} &gt; 0 \\Leftrightarrow \\textnormal{Spannung geht Strom voraus}\\)</div><div>\\(\\varphi_{ui} &lt; 0 \\Leftrightarrow \\textnormal{Spannung folgt Strom}\\)</div></div>"
                     ],
                     "guid": "s87;StGLi&",
                     "note_model_uuid": "0f3f52aa-931b-11eb-b01b-04d9f5f4bc98",
@@ -762,7 +762,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Forme&nbsp;\\(|z|e^{j\\varphi}\\)&nbsp;um.",
+                        "Stelle \\(|z|e^{j\\varphi}\\)&nbsp;mit trigonometrischen Funktionen dar.",
                         "\\(|z|e^{j\\varphi} = |z|(\\cos(\\varphi) + j\\sin(\\varphi))\\)"
                     ],
                     "guid": "tWGgFzc7a>",
@@ -772,7 +772,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Forme&nbsp;\\(|z|(\\cos(\\varphi) + j\\sin(\\varphi))\\)&nbsp;um.",
+                        "Stelle&nbsp;\\(|z|(\\cos(\\varphi) + j\\sin(\\varphi))\\)&nbsp;ohne trigonometrische Funktionen dar.",
                         "\\(|z|(\\cos(\\varphi) + j\\sin(\\varphi)) = |z|e^{j\\varphi}\\)"
                     ],
                     "guid": "B&N>|(f;m&",
